@@ -3,4 +3,6 @@
 
 For more information on the game take a look at its page on my [portfolio](http://www.christianfedrau.com/?p=69).
 
+If you have any questions about the code, feel free to reach out to me.
+
 ![La Viva Muerta Cover](http://www.christianfedrau.com/wp-content/uploads/VivaLaMuertaCover.png)
